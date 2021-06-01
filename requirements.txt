@@ -28,6 +28,6 @@ sphinx-rtd-theme==0.2.4
 sphinxcontrib-websupport==1.0.1
 tornado==4.5.2
 typing==3.6.4
-urllib3==1.7.1
+urllib3==1.26.5
 watchdog==0.8.3
 wsgiref==0.1.2
