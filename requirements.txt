@@ -13,7 +13,7 @@ certifi==2018.4.16
 chardet==2.0.1
 colorama==0.2.5
 docutils==0.14
-html5lib==0.999
+html5lib==0.99999999
 imagesize==1.0.0
 livereload==2.5.1
 pathtools==0.1.2
