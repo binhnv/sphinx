@@ -19,7 +19,7 @@ livereload==2.5.1
 pathtools==0.1.2
 port-for==0.3.1
 pytz==2018.4
-requests==2.2.1
+requests==2.20.0
 singledispatch==3.4.0.3
 six==1.5.2
 snowballstemmer==1.2.1
